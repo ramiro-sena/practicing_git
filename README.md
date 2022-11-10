@@ -2,16 +2,18 @@
 
 This repo was initialized for the purpose of practicing git and bash commands on unix systems as part of the Trybe Web Development course.
 
-## Commands
+## How versioning works
 
-```git init``` Initializes a repository
+### Commands
 
-```code .``` Opens VScode at current repository
+`git init` Initializes a repository
 
-```git add .``` Stage changes made on current and children directories
+`code .` Opens VScode at current repository
 
-```git branch <branch-name>``` Creates a new branch
+`git add .` Stage changes made on current and children directories
 
-```git checkout -b <branch-name>``` Checkout to a new branch
+`git branch <branch-name>` Creates a new branch
+
+`git checkout -b <branch-name>` Checkout to a new branch
 
 
